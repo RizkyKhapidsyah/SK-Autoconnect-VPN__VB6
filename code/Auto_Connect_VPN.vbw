@@ -1,0 +1,4 @@
+frmDialUp = 0, 59, 812, 640, , 57, 27, 405, 201, C
+trayconst = 66, 66, 769, 508, 
+MWinInetDialUp = 66, 66, 685, 516, 
+CheckifDunconnect = 132, 132, 751, 582, 
